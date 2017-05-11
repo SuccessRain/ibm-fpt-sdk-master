@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"net/url"
-	"github.com/liviosoares/go-watson-sdk/watson"
+	watson "github.com/SuccessRain/ibm-fpt-sdk-master"
 )
 
 type Client struct {
